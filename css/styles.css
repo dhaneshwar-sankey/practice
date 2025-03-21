@@ -31,6 +31,7 @@ body, html {
   justify-content: center;
   align-items: center;
   padding: 40px;
+  margin-top: 20vh;
 }
 
 .form-header {
@@ -125,7 +126,8 @@ input {
 }
 
 p {
-  margin-top: 80px;
+  margin-top: 60px;
+  
 }
 
 a {
@@ -139,11 +141,11 @@ a {
   }
 
   .left {
-    height: 15vh;
+    height: 0%;
   }
 
   .right {
-    height: 85vh;
+    height: 100%;
     padding: 20px;
   }
 }
@@ -170,3 +172,4 @@ a {
     font-size: 12px;
   }
 }
+
